@@ -42,7 +42,7 @@
 
 - 📫 How to reach me: **bhandsohail69@gmail.com**.
 
-- ⚡ Fun fact: **I think I am cute**.
+- ⚡ Fun fact: **Friendly person 🦅**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
