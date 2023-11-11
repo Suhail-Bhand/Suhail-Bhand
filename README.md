@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suhail Ahmed</h1>
+<h1 align="center">Assamalikum 👋, I'm Suhail Ahmed</h1>
 <h3 align="center">I am a BS-CS student at IBA Sukkur</h3>
 
 <p align="left">
