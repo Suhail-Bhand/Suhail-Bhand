@@ -1,11 +1,12 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Suhail-Bhand" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suhail+Ahmed!;" />
 </h1>
 
-<h3 align="center">A passionate Computer Science from Pakistan </h3>
+<h3 align="center">A passionate Computer Science enthusiast from Pakistan. </h3>
 
 <br/>
 
