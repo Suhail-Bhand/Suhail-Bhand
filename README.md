@@ -10,17 +10,15 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **an E-Commerce online store**
- 
- 🌱 I’m currently learning **React JSX, Node.js**
+<p>
+ <img align="right" width="350" src="https://camo.githubusercontent.com/314628e66241bc79226204edcefbef88652b79dc7f11a771776c693c0b999d0f/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d312c6d7369642d38343134363038332f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067" />
+👯 &emsp; I am looking for a <code style="color:#9DAAF2"> frontend developer job</code>.<br/><br/>
+✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
+❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> Next.js </code> and <code style="color:#9DAAF2">Node.js</code><br/><br/>
+📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=hello@alpaycelik.dev"> hello@alpaycelik.dev</a><br/><br/>
+💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/AlpayC/AlpayC/issues">here</a>
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Suhail-Bhand/Suhail-Bhand/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+</p>
  
 <div align="center"> 
   <a href="mailto:suhailbhnad7@gmail.com">
