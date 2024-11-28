@@ -5,11 +5,9 @@
 </h3>
 
 <div style="text-align: right; margin: 10px;">
-  <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=Suhail-Bhand" 
-    alt="Visitor Badge" 
-    style="border: 1px solid #ccc; border-radius: 5px; padding: 2px;"
-  />
+  <a href="https://komarev.com/ghpvc/?username=Suhail-Bhand">
+    <img align="right" src="https://visitcount.itsvg.in/api?id=Suhail-Bhand&label=Profile%20Views&icon=2&pretty=true" />
+</a>
 </div>
 
 <p align="center">
@@ -61,17 +59,33 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-<!--   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Suhail-Bhand&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Suhail-Bhand&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+   <p align="center">
+  <a href="https://github.com/Suhail-Bhand" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Bhand&theme=codeSTACKr&border=9DAAF2" alt="Suhail's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Suhail-Bhand">
+    <img style="border: 2px solid #9DAAF2; border-radius: 6px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suhail-Bhand&theme=codeSTACKr" alt="Suhail's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Suhail-Bhand"><img alt="Suhail's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Suhail-Bhand&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/></a>
+
+
+   
+  <a href="https://github.com/Suhail-Bhand"><img alt="Suhail's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Suhail-Bhand&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-Bhand&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhail-Bhand&custom_title=Suhail's%20GitHub%20Activity%20Graph&bg_color=09131B&color=9DAAF2&line=FF652F&point=9DAAF2&area_color=FF652F&title_color=FF652F&area=true" alt="Suhail's Graph" style="border: 1px solid #9DAAF2; border-radius: 6px;" />
+
 </div>
-
-
-<br/><br/>
-
+<br/>
 <hr/>
-
+<br/>
 <p align="center">
   <a href="https://github.com/Suhail-Bhand">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=48&pause=2000&color=9DAAF2&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+visiting!" alt="Typing SVG" />
