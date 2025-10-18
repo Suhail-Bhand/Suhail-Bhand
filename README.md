@@ -21,9 +21,9 @@
 
 <p>
  <img align="right" width="350" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style="margin-top:29px"/>
-👯 &emsp; I am looking for a <code style="color:#9DAAF2"> Full Stack developer job</code>.<br/><br/>
+👯 &emsp; I am looking for a <code style="color:#9DAAF2"> Mern Stack developer job</code>.<br/><br/>
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
-❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> ML </code> and <code style="color:#9DAAF2">Node.js</code><br/><br/>
+❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> RAG </code> and <code style="color:#9DAAF2"> Deep Learning </code><br/><br/>
 💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/Suhail-Ahmed7/Suhail-Ahmed7/issues">here</a>
 </p>
 
